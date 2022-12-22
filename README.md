@@ -1,6 +1,6 @@
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osw0124&theme=github_dark)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osw0124&theme=github_dark) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osw0124&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osw0124&theme=github_dark)
 
